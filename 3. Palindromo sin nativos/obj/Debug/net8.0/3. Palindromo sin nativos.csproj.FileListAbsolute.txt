@@ -1,0 +1,15 @@
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\bin\Debug\net8.0\3. Palindromo sin nativos.exe
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\bin\Debug\net8.0\3. Palindromo sin nativos.deps.json
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\bin\Debug\net8.0\3. Palindromo sin nativos.runtimeconfig.json
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\bin\Debug\net8.0\3. Palindromo sin nativos.dll
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\bin\Debug\net8.0\3. Palindromo sin nativos.pdb
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.AssemblyInfoInputs.cache
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.AssemblyInfo.cs
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.csproj.CoreCompileInputs.cache
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.sourcelink.json
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.dll
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\refint\3. Palindromo sin nativos.dll
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.pdb
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\3. Palindromo sin nativos.genruntimeconfig.cache
+E:\Net\EjerciciosdeLogica\3. Palindromo sin nativos\obj\Debug\net8.0\ref\3. Palindromo sin nativos.dll

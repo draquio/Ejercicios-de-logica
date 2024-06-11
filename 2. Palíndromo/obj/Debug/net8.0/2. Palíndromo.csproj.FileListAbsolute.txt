@@ -1,0 +1,15 @@
+E:\Net\EjerciciosdeLogica\2. Palíndromo\bin\Debug\net8.0\2. Palíndromo.exe
+E:\Net\EjerciciosdeLogica\2. Palíndromo\bin\Debug\net8.0\2. Palíndromo.deps.json
+E:\Net\EjerciciosdeLogica\2. Palíndromo\bin\Debug\net8.0\2. Palíndromo.runtimeconfig.json
+E:\Net\EjerciciosdeLogica\2. Palíndromo\bin\Debug\net8.0\2. Palíndromo.dll
+E:\Net\EjerciciosdeLogica\2. Palíndromo\bin\Debug\net8.0\2. Palíndromo.pdb
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.AssemblyInfoInputs.cache
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.AssemblyInfo.cs
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.csproj.CoreCompileInputs.cache
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.sourcelink.json
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.dll
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\refint\2. Palíndromo.dll
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.pdb
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\2. Palíndromo.genruntimeconfig.cache
+E:\Net\EjerciciosdeLogica\2. Palíndromo\obj\Debug\net8.0\ref\2. Palíndromo.dll

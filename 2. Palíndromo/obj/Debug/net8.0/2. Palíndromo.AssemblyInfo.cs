@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("01. Sucesión de Fibonacci")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("2. Palíndromo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db81389b6d0ca9a58af0e3cd1fbeceb4c967291d")]
-[assembly: System.Reflection.AssemblyProductAttribute("01. Sucesión de Fibonacci")]
-[assembly: System.Reflection.AssemblyTitleAttribute("01. Sucesión de Fibonacci")]
+[assembly: System.Reflection.AssemblyProductAttribute("2. Palíndromo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("2. Palíndromo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
