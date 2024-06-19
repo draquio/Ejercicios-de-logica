@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2. Palíndromo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db81389b6d0ca9a58af0e3cd1fbeceb4c967291d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14fa661fd55330a607cdf42d75fda9db3cd06e0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("2. Palíndromo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2. Palíndromo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
